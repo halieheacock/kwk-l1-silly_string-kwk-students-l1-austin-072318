@@ -11,7 +11,6 @@ favorite_word_in_all_caps = your_favorite_word # Put a . after your_favorite wor
 
 puts "MY FAVORITE WORD IS #{favorite_word_in_all_caps}"
 
-# Challenge 3: Make all the letters of phrase lowercase using a built in Ruby method
 
 phrase = "I I_Love_Chicken_Nuggets"
 
